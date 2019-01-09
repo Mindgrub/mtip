@@ -1,0 +1,26 @@
+{
+    "name": "Mindgrub/MTIP",
+    "description": "Library to submit an MTIP application.",
+    "keywords": ["mtip"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Colin Crampton",
+            "email": "ccrampton@mindgrub.com"
+        }
+    ],
+    "type": "library",
+    "require": {
+		"php": ">=5.4",
+        "sunra/php-simple-html-dom-parser": "^1.5",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+	"require-dev": {
+		"phpunit/phpunit": "5.2.*"
+    },
+	"autoload": {
+        "psr-4": {
+            "Mindgrub\\MTIP\\": "src/"
+        }
+    }
+}
