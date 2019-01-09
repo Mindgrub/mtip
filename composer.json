@@ -1,6 +1,6 @@
 {
     "name": "mindgrub/mtip",
-    "description": "Library to submit an MTIP application.",
+    "description": "PHP library to submit an MTIP application.",
     "keywords": ["mtip"],
     "license": "MIT",
     "authors": [
