@@ -1,5 +1,5 @@
 {
-    "name": "Mindgrub/MTIP",
+    "name": "mindgrub/mtip",
     "description": "Library to submit an MTIP application.",
     "keywords": ["mtip"],
     "license": "MIT",
